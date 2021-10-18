@@ -1,1 +1,1 @@
-# Kanon-Gaming-Test-Solution
+This is solely for Kanon Gaming Inc.
